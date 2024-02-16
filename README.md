@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm QPhat</h1>
+<h1 align="center">Hi, I am Phat</h1>
 <h3 align="center">A data-enthusiastic student</h3>
 
 Welcome to my Github profile! My full name is Pham Quang Phat, and I'm currently a junior at Huflit University, major in Information System.
-I'm living now in Tan Phu District, Ho Chi Minh City, Viet Nam. 
+I'm currently living in Tan Phu District, Ho Chi Minh City, Viet Nam. 
 
-I realized that I have a strong passionate about data stuff since I was a sophomore, so I decided to improve my knowledge and pursue an attractive position in data field.
+I realized that I have a interest in data stuff recently, so I decided to improve my knowledge and pursue a career in the data field.
 
-- 🔭 I’m currently working on **Google Advance Analytics**
+- 🔭 I’m currently working on **Google Advance Analytics | Tableau BI**
 
 - 🌱 I’m currently learning **Data Analytic, BI Analytic**
 
@@ -26,18 +26,21 @@ I realized that I have a strong passionate about data stuff since I was a sophom
 ## 🛠 Knowledges/Skills
 
 **Keywords**
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%2314354C.svg?style=for-the-badge&logoColor=white) 
+
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%2314354C.svg?style=for-the-badge&logoColor=white)
 ![Data Engineer](https://img.shields.io/badge/Data%20Engineer-%2314354C.svg?style=for-the-badge&logoColor=white) 
 
 **Language**
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 
+
 **Frameworks/Libraries**
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=blue)
 
 
 **Database**
@@ -60,9 +63,5 @@ I realized that I have a strong passionate about data stuff since I was a sophom
 
 ---
 <p align="center">Thanks for watching my profile! Have a nice day! </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=locnd-172&style=for-the-badge"/>
-  <img src="https://shields.io/github/stars/locnd-172?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/locnd-172?style=for-the-badge"/>
-</p>
+
 
