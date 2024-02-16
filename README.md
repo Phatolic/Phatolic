@@ -18,7 +18,7 @@ I realized that I have a strong passionate about data stuff since I was a sophom
 
 [![Linkedin Badge](https://img.shields.io/badge/-phat-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/quangphat0607) 
 [![Gmail Badge](https://img.shields.io/badge/phat-red?style=for-the-badge&logo=Gmail&logoColor=white)](phatintowork@gmail.com) 
-[![Facebook Badge](https://img.shields.io/badge/-Lộc-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100018112606626&locale=vi_VN) 
+[![Facebook Badge](https://img.shields.io/badge/-Phat-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100018112606626&locale=vi_VN) 
 
 
 ## 🔭 Some repository
@@ -26,7 +26,7 @@ I realized that I have a strong passionate about data stuff since I was a sophom
 ## 🛠 Knowledges/Skills
 
 **Keywords**
-
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%2314354C.svg?style=for-the-badge&logoColor=white) 
 ![Data Engineer](https://img.shields.io/badge/Data%20Engineer-%2314354C.svg?style=for-the-badge&logoColor=white) 
 
 **Language**
