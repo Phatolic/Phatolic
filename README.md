@@ -6,8 +6,6 @@ I'm living now in Tan Phu District, Ho Chi Minh City, Viet Nam.
 
 I realized that I have a strong passionate about data stuff since I was a sophomore, so I decided to improve my knowledge and pursue an attractive position in data field.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=locnd-172&show_icons=true&locale=en&layout=compact" alt="locnd-172" />
-
 - 🔭 I’m currently working on **Google Advance Analytics**
 
 - 🌱 I’m currently learning **Data Analytic, BI Analytic**
