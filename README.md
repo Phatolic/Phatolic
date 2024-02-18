@@ -6,9 +6,9 @@ I'm currently living in Tan Phu District, Ho Chi Minh City, Viet Nam.
 
 I realized that I have a interest in data stuff recently, so I decided to improve my knowledge and pursue a career in the data field.
 
-- 🔭 I’m currently working on **Google Advance Analytics | Tableau BI**
+- 🔭 I’m currently working on **Google Advance Analytics**
 
-- 🌱 I’m currently learning **Data Analytic, BI Analytic**
+- 🌱 I’m currently learning **Data Analytic, Data Engineer**
 
 - 📫 How to reach me **phatintowork@gmail.com**
 
