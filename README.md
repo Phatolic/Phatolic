@@ -21,14 +21,12 @@ I realized that I have a interest in data stuff recently, so I decided to improv
 [![Facebook Badge](https://img.shields.io/badge/-Phat-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100018112606626&locale=vi_VN) 
 
 
-## 🔭 Some repository
-
 ## 🛠 Knowledges/Skills
 
 **Keywords**
 
 ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%2314354C.svg?style=for-the-badge&logoColor=white)
-
+![BI Analyst](https://img.shields.io/badge/BI%20Analyst-%2314354C.svg?style=for-the-badge&logoColor=white)
 
 **Language**
 
