@@ -8,7 +8,7 @@ I realized that I have a interest in data stuff recently, so I decided to improv
 
 - 🔭 I’m currently working on **Google Advance Analytics**
 
-- 🌱 I’m currently learning **Data Analytic, Data Engineer**
+- 🌱 I’m currently learning **Data Analytic**
 
 - 📫 How to reach me **phatintowork@gmail.com**
 
@@ -28,7 +28,7 @@ I realized that I have a interest in data stuff recently, so I decided to improv
 **Keywords**
 
 ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%2314354C.svg?style=for-the-badge&logoColor=white)
-![Data Engineer](https://img.shields.io/badge/Data%20Engineer-%2314354C.svg?style=for-the-badge&logoColor=white) 
+
 
 **Language**
 
@@ -47,7 +47,7 @@ I realized that I have a interest in data stuff recently, so I decided to improv
 
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%230072C6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 **Tools**
 
