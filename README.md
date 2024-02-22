@@ -12,7 +12,7 @@ I realized that I have a interest in data stuff recently, so I decided to improv
 
 - 📫 How to reach me **phatintowork@gmail.com**
 
-- ⚡ Fun fact: I'm fascinated by sports, books and games.
+- ⚡ Fun fact: I'm fascinated by sports, books.
 
 ## 🙄 Where to find me
 
