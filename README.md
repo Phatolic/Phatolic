@@ -6,7 +6,7 @@ I'm currently living in Tan Phu District, Ho Chi Minh City, Viet Nam.
 
 I realized that I have a interest in data stuff recently, so I decided to improve my knowledge and pursue a career in the data field.
 
-- 🔭 I’m currently working on **Google Advance Analytics**
+- 🔭 I’m currently working on **Google Advanced Data Analytics Certificate**
 
 - 🌱 I’m currently learning **Data Analytic**
 
@@ -44,14 +44,13 @@ I realized that I have a interest in data stuff recently, so I decided to improv
 **Database**
 
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%230072C6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%230072C6.svg?style=for-the-badge&logo=postgresql&logoColor=white) (Basic)
 
 
 **Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
