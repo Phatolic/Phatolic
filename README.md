@@ -44,8 +44,6 @@ I realized that I have a interest in data stuff recently, so I decided to improv
 **Database**
 
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%230072C6.svg?style=for-the-badge&logo=postgresql&logoColor=white) (Basic)
-
 
 **Tools**
 
