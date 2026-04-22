@@ -1,14 +1,7 @@
 <h1 align="center">Hi, I am Phat</h1>
 <h3 align="center">A data-enthusiastic student</h3>
 
-Welcome to my Github profile! My full name is Pham Quang Phat, and I'm currently a junior at Huflit University, major in Information System.
-I'm currently living in Tan Phu District, Ho Chi Minh City, Viet Nam. 
-
-I realized that I have a interest in data stuff recently, so I decided to improve my knowledge and pursue a career in the data field.
-
-- 🔭 I’m currently working on **Google Advanced Data Analytics Certificate**
-
-- 🌱 I’m currently learning **Data Analytic**
+Welcome to my Github profile! My full name is Pham Quang Phat
 
 - 📫 How to reach me **phatintowork@gmail.com**
 
