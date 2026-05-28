@@ -17,7 +17,6 @@ Welcome to my Github profile! My full name is Pham Quang Phat
 ## 🛠 Knowledges/Skills
 
 **Keywords**
-![Data Engineer](https://img.shields.io/badge/BI%20Analyst-%2314354C.svg?style=for-the-badge&logoColor=white)
 
 **Language**
 
